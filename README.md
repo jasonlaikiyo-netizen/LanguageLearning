@@ -6,6 +6,6 @@
 
 | 語言 | 網頁 | A4 PDF(可列印) |
 |------|------|------|
-| 🇺🇸 英語 | [english.md](english.md) | - |
-| 🇯🇵 日語 | [japanese.md](japanese.md) | - |
-| 🇹🇭 泰語 | [thai.md](thai.md) | - |
+| 🇺🇸 英語 | [english.md](english.md) | [PDF](english.pdf) |
+| 🇯🇵 日語 | [japanese.md](japanese.md) | [PDF](japanese.pdf) |
+| 🇹🇭 泰語 | [thai.md](thai.md) | [PDF](thai.pdf) |
