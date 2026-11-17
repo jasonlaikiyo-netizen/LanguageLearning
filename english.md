@@ -1,65 +1,65 @@
 # 🇺🇸 每日英語口語短句
 
-📅 2026-11-17
+📅 2026-11-18
 
-### 1. I'm good, thanks.
-- 中文:我不用了,謝謝。
-- 使用時機:婉拒服務生或店員的詢問,例如加水、加點。
-- 例句:A: More water? B: I'm good, thanks.
-  - 翻譯:A:要再加水嗎?B:不用了,謝謝。
+### 1. How's it going?
+- 中文:最近怎麼樣?
+- 使用時機:朋友、同事見面時的輕鬆問候,比 How are you 更口語。
+- 例句:Hey Mark! How's it going?
+  - 翻譯:嘿 Mark!最近怎麼樣?
 
-### 2. Keep me posted.
-- 中文:有消息再告訴我。
-- 使用時機:請對方有進度就通知你。
-- 例句:Keep me posted on how the meeting goes.
-  - 翻譯:會議結果再跟我說。
+### 2. Long time no see.
+- 中文:好久不見。
+- 使用時機:久別重逢時的招呼語。
+- 例句:Long time no see! You look great.
+  - 翻譯:好久不見!你看起來很棒。
 
-### 3. What do you do for a living?
-- 中文:你是做什麼工作的?
-- 使用時機:認識新朋友時詢問職業。
-- 例句:So, what do you do for a living?
-  - 翻譯:那你是做什麼工作的?
+### 3. Can I get the check, please?
+- 中文:請幫我結帳。
+- 使用時機:餐廳用完餐,請服務生結帳。
+- 例句:We're done. Can I get the check, please?
+  - 翻譯:我們吃好了,請幫我們結帳。
 
-### 4. I'm starving.
-- 中文:我餓死了。
-- 使用時機:表示非常餓,口語誇張說法。
-- 例句:I skipped lunch. I'm starving.
-  - 翻譯:我沒吃午餐,餓死了。
+### 4. I'm just looking, thanks.
+- 中文:我只是看看,謝謝。
+- 使用時機:店員上前詢問時,禮貌表示想自己逛。
+- 例句:A: Can I help you find something? B: I'm just looking, thanks.
+  - 翻譯:A:需要幫您找什麼嗎?B:我只是看看,謝謝。
 
-### 5. Do you take credit cards?
-- 中文:你們收信用卡嗎?
-- 使用時機:結帳前確認能不能刷卡。
-- 例句:Do you take credit cards, or is it cash only?
-  - 翻譯:你們可以刷卡嗎?還是只收現金?
+### 5. Could you say that again?
+- 中文:可以再說一次嗎?
+- 使用時機:沒聽清楚或沒聽懂,請對方重複。
+- 例句:Sorry, could you say that again? It's loud in here.
+  - 翻譯:抱歉,可以再說一次嗎?這裡很吵。
 
-### 6. It's up to you.
-- 中文:由你決定。
-- 使用時機:把選擇的決定權交給對方。
-- 例句:Pizza or sushi? It's up to you.
-  - 翻譯:披薩還是壽司?由你決定。
+### 6. I'm running late.
+- 中文:我快遲到了。
+- 使用時機:事先通知對方自己會晚到。
+- 例句:I'm running late. Start without me.
+  - 翻譯:我快遲到了,你們先開始吧。
 
-### 7. Let me check.
-- 中文:我看一下。
-- 使用時機:需要查詢後才能回答。
-- 例句:Let me check my calendar.
-  - 翻譯:我看一下行事曆。
+### 7. What do you recommend?
+- 中文:你推薦什麼?
+- 使用時機:點餐或購物時,請店員推薦。
+- 例句:It's my first time here. What do you recommend?
+  - 翻譯:我第一次來,你推薦什麼?
 
-### 8. That's a good point.
-- 中文:這點很好。
-- 使用時機:認同對方提出的意見。
-- 例句:That's a good point. I hadn't thought of that.
-  - 翻譯:這點很好,我沒想過。
+### 8. Let's grab a coffee.
+- 中文:我們去喝杯咖啡吧。
+- 使用時機:邀請朋友或同事輕鬆聊聊。
+- 例句:Let's grab a coffee after work.
+  - 翻譯:下班後去喝杯咖啡吧。
 
-### 9. I'll be right back.
-- 中文:我馬上回來。
-- 使用時機:暫時離開座位或通話時。
-- 例句:Hold on, I'll be right back.
-  - 翻譯:等一下,我馬上回來。
+### 9. No worries.
+- 中文:別擔心。
+- 使用時機:對方道歉或道謝時,回應「沒關係」「不客氣」。
+- 例句:A: Sorry I'm late. B: No worries.
+  - 翻譯:A:抱歉我遲到了。B:沒關係。
 
-### 10. Have a great day!
-- 中文:祝你有美好的一天!
-- 使用時機:道別時的祝福,店員和朋友都常用。
-- 例句:Thanks for your help. Have a great day!
-  - 翻譯:謝謝你的幫忙,祝你有美好的一天!
+### 10. I'll think about it.
+- 中文:我考慮一下。
+- 使用時機:不想當場決定時,例如面對推銷或邀約。
+- 例句:It sounds interesting. I'll think about it.
+  - 翻譯:聽起來不錯,我考慮一下。
 
 [← 回首頁](README.md)

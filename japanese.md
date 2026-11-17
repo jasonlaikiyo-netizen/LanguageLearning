@@ -1,85 +1,85 @@
 # 🇯🇵 每日日語口語短句
 
-📅 2026-11-17
+📅 2026-11-18
 
-### 1. すみません、駅はどこですか?
-- 發音:Sumimasen, eki wa doko desu ka?
-- 中文:不好意思,車站在哪?
-- 使用時機:迷路時向路人問車站位置。
-- 例句:道に迷いました。すみません、駅はどこですか?
-  - 發音:Michi ni mayoimashita. Sumimasen, eki wa doko desu ka?
-  - 翻譯:我迷路了。不好意思,車站在哪裡?
+### 1. お久しぶりです。
+- 發音:Ohisashiburi desu.
+- 中文:好久不見。
+- 使用時機:久別重逢時使用,對長輩或不熟的人用這句,朋友可說「久しぶり」。
+- 例句:田中さん、お久しぶりです。お元気でしたか?
+  - 發音:Tanaka-san, ohisashiburi desu. Ogenki deshita ka?
+  - 翻譯:田中先生,好久不見。您最近好嗎?
 
-### 2. 写真を撮ってもらえますか?
-- 發音:Shashin o totte moraemasu ka?
-- 中文:可以幫我拍照嗎?
-- 使用時機:在景點請路人幫忙拍照。
-- 例句:ここで写真を撮ってもらえますか?ボタンを押すだけです。
-  - 發音:Koko de shashin o totte moraemasu ka? Botan o osu dake desu.
-  - 翻譯:可以幫我在這裡拍張照嗎?只要按一下按鈕就好。
+### 2. ちょっと待ってください。
+- 發音:Chotto matte kudasai.
+- 中文:請稍等一下。
+- 使用時機:請對方稍等片刻。
+- 例句:電話に出るので、ちょっと待ってください。
+  - 發音:Denwa ni deru node, chotto matte kudasai.
+  - 翻譯:我要接個電話,請稍等一下。
 
-### 3. また今度ね。
-- 發音:Mata kondo ne.
-- 中文:下次再說吧。
-- 使用時機:和朋友之間委婉地改天再約,或婉拒邀約。
-- 例句:A:今夜、飲みに行かない? B:ごめん、また今度ね。
-  - 發音:A: Kon'ya, nomi ni ikanai? B: Gomen, mata kondo ne.
-  - 翻譯:A:今晚要不要去喝一杯?B:抱歉,下次吧。
+### 3. もう一度お願いします。
+- 發音:Mō ichido onegaishimasu.
+- 中文:請再說一次。
+- 使用時機:沒聽清楚時,禮貌地請對方重複。
+- 例句:早くて分かりませんでした。もう一度お願いします。
+  - 發音:Hayakute wakarimasen deshita. Mō ichido onegaishimasu.
+  - 翻譯:太快了我沒聽懂,請再說一次。
 
-### 4. 楽しみにしています。
-- 發音:Tanoshimi ni shite imasu.
-- 中文:我很期待。
-- 使用時機:表示對即將到來的事感到期待。
-- 例句:来週の旅行、楽しみにしています。
-  - 發音:Raishū no ryokō, tanoshimi ni shite imasu.
-  - 翻譯:我很期待下週的旅行。
+### 4. これはいくらですか?
+- 發音:Kore wa ikura desu ka?
+- 中文:這個多少錢?
+- 使用時機:購物時指著商品詢問價格。
+- 例句:すみません、このかばんはいくらですか?
+  - 發音:Sumimasen, kono kaban wa ikura desu ka?
+  - 翻譯:不好意思,這個包包多少錢?
 
-### 5. 気をつけてね。
-- 發音:Ki o tsukete ne.
-- 中文:路上小心。
-- 使用時機:對即將出門或回家的朋友說,表示關心。
-- 例句:夜遅いから、気をつけてね。
-  - 發音:Yoru osoi kara, ki o tsukete ne.
-  - 翻譯:時間很晚了,路上小心喔。
+### 5. おすすめは何ですか?
+- 發音:Osusume wa nan desu ka?
+- 中文:你推薦什麼?
+- 使用時機:點餐或購物時,請店員推薦。
+- 例句:初めてなんですが、おすすめは何ですか?
+  - 發音:Hajimete nan desu ga, osusume wa nan desu ka?
+  - 翻譯:我第一次來,有什麼推薦的嗎?
 
-### 6. そうですね。
-- 發音:Sō desu ne.
-- 中文:說得也是。
-- 使用時機:附和對方的話,表示同意或在聽。
-- 例句:A:今日は暑いですね。 B:そうですね。
-  - 發音:A: Kyō wa atsui desu ne. B: Sō desu ne.
-  - 翻譯:A:今天好熱喔。B:說得也是。
+### 6. お会計をお願いします。
+- 發音:Okaikei o onegaishimasu.
+- 中文:麻煩結帳。
+- 使用時機:用餐完畢,請店員過來結帳。
+- 例句:食べ終わりました。お会計をお願いします。
+  - 發音:Tabeowarimashita. Okaikei o onegaishimasu.
+  - 翻譯:我們吃完了,麻煩結帳。
 
-### 7. 本当ですか?
-- 發音:Hontō desu ka?
-- 中文:真的嗎?
-- 使用時機:聽到意外或驚喜的消息時的反應。
-- 例句:A:来月、結婚します。 B:本当ですか?おめでとう!
-  - 發音:A: Raigetsu, kekkon shimasu. B: Hontō desu ka? Omedetō!
-  - 翻譯:A:我下個月要結婚了。B:真的嗎?恭喜!
+### 7. 見ているだけです。
+- 發音:Miteiru dake desu.
+- 中文:我只是看看。
+- 使用時機:店員招呼時,婉拒並表示想自己逛。
+- 例句:A:何かお探しですか? B:見ているだけです。
+  - 發音:A: Nanika osagashi desu ka? B: Miteiru dake desu.
+  - 翻譯:A:請問在找什麼嗎?B:我只是看看。
 
-### 8. お先に失礼します。
-- 發音:Osaki ni shitsurei shimasu.
-- 中文:我先告辭了。
-- 使用時機:比同事先下班或先離開時說。
-- 例句:今日はこれで、お先に失礼します。
-  - 發音:Kyō wa kore de, osaki ni shitsurei shimasu.
-  - 翻譯:今天就到這裡,我先告辭了。
+### 8. トイレはどこですか?
+- 發音:Toire wa doko desu ka?
+- 中文:廁所在哪裡?
+- 使用時機:在街上、車站或店裡找洗手間。
+- 例句:すみません、トイレはどこですか?
+  - 發音:Sumimasen, toire wa doko desu ka?
+  - 翻譯:不好意思,洗手間在哪裡?
 
-### 9. おいしいです!
-- 發音:Oishii desu!
-- 中文:好吃!
-- 使用時機:稱讚食物好吃。
-- 例句:このラーメン、おいしいです!
-  - 發音:Kono rāmen, oishii desu!
-  - 翻譯:這碗拉麵好好吃!
+### 9. 大丈夫です。
+- 發音:Daijōbu desu.
+- 中文:沒問題/不用了。
+- 使用時機:可表示「沒問題」,也常用來委婉拒絕「不用了」。
+- 例句:A:袋はいりますか? B:大丈夫です。
+  - 發音:A: Fukuro wa irimasu ka? B: Daijōbu desu.
+  - 翻譯:A:需要袋子嗎?B:不用了。
 
-### 10. ちょっと考えます。
-- 發音:Chotto kangaemasu.
-- 中文:我考慮一下。
-- 使用時機:不想當場決定時,委婉地先保留。
-- 例句:高いので、ちょっと考えます。
-  - 發音:Takai node, chotto kangaemasu.
-  - 翻譯:有點貴,我考慮一下。
+### 10. 少し遅れます。
+- 發音:Sukoshi okuremasu.
+- 中文:我會晚一點到。
+- 使用時機:事先通知對方自己會遲到。
+- 例句:電車が遅れているので、少し遅れます。
+  - 發音:Densha ga okurete iru node, sukoshi okuremasu.
+  - 翻譯:電車誤點,我會晚一點到。
 
 [← 回首頁](README.md)
